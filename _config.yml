@@ -126,10 +126,10 @@ author:
       url: "pxrksuhn@gmail.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/pxrksuhn"
+      url: "https://github.com/pxrksuhn"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/pxrksuhn"
+      url: "https://instagram.com/pxrksuhn"
 
 # Site Footer
 footer:
