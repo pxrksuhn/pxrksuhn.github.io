@@ -115,7 +115,7 @@ analytics:
 # Site Author
 author:
   name             : "parksuhn"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/harts_pingping2.png"
   bio              : "Born to slack, forced to be an ML Engineer."
   location         : "South Korea"
   email            :
